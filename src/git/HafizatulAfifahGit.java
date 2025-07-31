@@ -1,6 +1,6 @@
 package git;
 
-public class HafizaGit {
+public class HafizatulAfifahGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
